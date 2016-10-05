@@ -3,7 +3,7 @@
 Add line to `~/.bash_profile`
 
 ```bash
-alias deskclean='/usr/bin/python /Users/hlomax/workspace/random/scripts/desk_clean.py'
+alias deskclean='/usr/bin/python /Users/{username}/{path/to/directory}/desk_clean.py'
 ```
 
 # To run
