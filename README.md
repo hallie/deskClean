@@ -1,4 +1,4 @@
-# To set up
+# To set up things
 
 Add line to `~/.bash_profile`
 
